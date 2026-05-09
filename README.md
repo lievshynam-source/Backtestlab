@@ -47,6 +47,20 @@ Configure → Run Simulation → Analyze Results → Compare Runs → Re-run or 
 
 ---
 
+## Results Dashboard
+
+BacktestLab explores a compact analytical workspace for evaluating strategy profitability, drawdown behavior, and execution quality inside a single interface.
+
+The MVP focuses on:
+- real-time analytical feedback
+- continuous strategy iteration
+- unified performance analysis
+- compact information density inspired by trading terminals
+
+![Results Dashboard](results-dashboard.png)
+
+---
+
 ## Key Metrics
 
 - PnL

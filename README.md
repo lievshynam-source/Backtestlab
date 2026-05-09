@@ -43,6 +43,8 @@ The workflow follows an iterative analytical loop:
 
 Configure → Run Simulation → Analyze Results → Compare Runs → Re-run or Save Baseline
 
+![BacktestLab User Journey](journey/backtestlab-user-journey.png)
+
 ---
 
 ## Key Metrics

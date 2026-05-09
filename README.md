@@ -4,6 +4,14 @@ Real-time analytical workspace for simulating, evaluating, and comparing Web3 tr
 
 ---
 
+## Project Status
+
+Concept MVP / UX exploration project created in November 2025.
+
+The project explores analytical workflows and product UX for continuous Web3 strategy evaluation and simulation.
+
+---
+
 ## Product Goal
 
 BacktestLab was designed to reduce the time between strategy idea, simulation, and analytical decision-making.
